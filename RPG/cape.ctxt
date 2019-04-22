@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=cape
+comment0.text=\r\nLocation\ class\:\ Cape\ Space\ -\ 7\ methods\r\n\ \r\n\ \r\n\ \r\n\ \r\n
+comment1.params=point
+comment1.target=int\ cape(int)
+comment2.params=
+comment2.target=int\ mathgame()
+comment3.params=
+comment3.target=int\ add()
+comment4.params=
+comment4.target=int\ subtract()
+comment5.params=
+comment5.target=int\ divide()
+comment6.params=
+comment6.target=int\ multiply()
+comment7.params=num1\ num2\ symbol
+comment7.target=void\ screen(int,\ int,\ char)
+numComments=8

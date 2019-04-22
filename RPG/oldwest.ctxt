@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=oldwest
+comment0.text=\r\nlocation\ class\ -\ old\ west\ -\ 2\ methods\r\n\ \r\n\ \r\n\ \r\n
+comment1.params=point
+comment1.target=int\ oldwest(int)
+comment2.params=
+comment2.target=int\ blackjack()
+numComments=3

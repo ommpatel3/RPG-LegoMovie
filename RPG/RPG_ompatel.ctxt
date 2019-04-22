@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=RPG_ompatel
+comment0.text=\r\n\ Compsci\ RPG\ assignment\ -\ 11\ methods\r\n\ Criterion\ C\ Om\ Patel\ (P1)\ \r\n\ April\ 12,\ 2019\ \r\n\ Based\ on\:\ The\ Lego\ Movie\ (Emmet\ Brickowski)\ \r\n\ The\ objective\ is\ to\ save\ Bricksburg\ from\ the\ kragle,\ once\ again\ as\ it\ has\ emerged\ in\ the\ hands\ of\ the\ lego\ duplos\ who\ plan\ to\ use\ it\ on\ bricksburg\r\n\ The\ password\ is\ "password"\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=
+comment10.target=void\ secretending()
+comment11.params=
+comment11.target=void\ pyramid()
+comment2.params=
+comment2.target=RPG_ompatel()
+comment3.params=
+comment3.target=void\ intro()
+comment4.params=
+comment4.target=void\ game()
+comment5.params=point\ gain
+comment5.target=void\ pointprint(int,\ int)
+comment6.params=point
+comment6.target=int\ wear(int)
+comment7.params=point
+comment7.target=int\ fillblank(int)
+comment8.params=
+comment8.target=java.lang.String\ magic8()
+comment9.params=point
+comment9.target=void\ ending(int)
+numComments=12
